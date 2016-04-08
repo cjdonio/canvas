@@ -1,0 +1,4 @@
+/*Changes the size of the main page's logo*/
+.ic-app-header__logomark-container {
+    width: 100%;
+}
